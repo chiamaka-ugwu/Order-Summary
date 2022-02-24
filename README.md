@@ -21,7 +21,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://chiamaka-ugwu.github.io/Order-Summary/](https://chiamaka-ugwu.github.io/Order-Summary/)
 
 ## My process
 
